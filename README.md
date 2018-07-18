@@ -1,6 +1,5 @@
 # TaylorSwiftShop
 
-The simple shop mobile app written on [react], [redux].
+The simple shop mobile app written on [react-native].
 
-[react]: <https://reactjs.org>
 [react-native]: <https://facebook.github.io/react-native/>
